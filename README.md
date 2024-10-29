@@ -5,6 +5,7 @@
 
 ## Education
 - B.Comp.Sci. | German University in Cairo (_September 2022_)
+-
 
 ## Projects
 ### VoleVault
